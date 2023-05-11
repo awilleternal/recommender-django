@@ -3,7 +3,7 @@ from math import sqrt
 
 
 
-dataFrame = json.load(open("c:\\Users\\Dell\\my_tennis_club\\members\\1000DATASET.json"))
+dataFrame = json.load(open("c:\\Users\\Dell\\my_tennis_club\\members\\1000DATASET.json"))#change according to local
 
 
 def sim_distance(reqirements_json, prefs, person1, person2):
